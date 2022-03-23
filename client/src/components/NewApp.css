@@ -1,0 +1,15 @@
+.form__container{
+    display: grid;
+    justify-content: center;
+    /* background-color: aquamarine; */
+    
+
+}
+
+.input-group-text{
+    font-size: 2rem;
+}
+
+.form-control {
+    font-size: 1.5rem;
+}
